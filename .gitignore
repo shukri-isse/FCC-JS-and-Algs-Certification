@@ -1,0 +1,24 @@
+# macOS things
+.DS_Store
+
+# Node modules (if you're using npm or any JS frameworks/tools)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories (if you use any)
+dist/
+build/
+
+# IDEs
+.vscode/
+*.code-workspace
+
+# Environment variables (if applicable)
+.env
+
+# Others
+*.log
