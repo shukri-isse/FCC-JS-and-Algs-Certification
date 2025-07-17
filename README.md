@@ -37,7 +37,7 @@ Welcome to my repository showcasing the projects I completed as part of the Free
 - JavaScript
 - HTML/CSS
 
-## 🧠 Key Concepts Practiced
+## Key Concepts Practiced
 - Regular Expressions (Regex)
 - Problem Solving
 - Algorithm Design
